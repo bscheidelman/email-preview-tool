@@ -136,8 +136,10 @@
             fresh: (goal, outro) => `
                 <p>Hi Ben,</p>
                 <p>My name is Ben, and I’m an Analyst at Tegus by AlphaSense, a leading expert network and market intelligence platform.</p>
-                <p>${goal ? goal : '[Expert Outreach Research Goal]'} This is a paid consultation, and it won't require much of your time.</p>
-                <p>Do you have 5 minutes to go over the project details? If so, you can find a time that works for you on <a href="#" onclick="return false;">my calendar</a>, or just let me know the best number for a call.</p>
+                <p>${goal ? goal : '[Expert Outreach Research Goal]'}</p>
+                <p><b>The goal is to schedule a 30-60 minute paid research call with my client.</b></p>
+                <p>If you're open to it, the next step is a brief 5-minute intro call to ensure it's a good fit. Our client is finalizing their schedule soon.</p>
+                <p>You can book a time that works for you directly on my calendar here: <a href="https://benscheidelman.youcanbook.me/" onclick="return false;">https://benscheidelman.youcanbook.me/</a></p>
                 ${outro ? `<p>${outro}</p>` : ''}
                 <p>All the best,<br>Ben</p>
             `,
