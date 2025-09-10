@@ -1,0 +1,11 @@
+{
+  "fresh": {
+    "body": "<p>Hi Joe,</p><p>My name is Ben, and I’m an Analyst at Tegus by AlphaSense, a leading expert network and market intelligence platform.</p><p>{{goal}}</p><p><b>The goal is to schedule a 30-60 minute paid research call with my client.</b></p><p>If you're open to it, the next step is a brief 5-minute intro call to ensure it's a good fit. Our client is finalizing their schedule soon.</p><p>You can book a time that works for you directly on my calendar here: <a href=\"https://www.youcanbookme/benjamin.scheidelman.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.youcanbookme/benjamin.scheidelman.com</a></p>{{outro}}<p>All the best,<br>Ben</p>"
+  },
+  "be_no_prior": {
+    "body": "<p>Hi Ben,</p><p>Thank you for being part of the AlphaSense network! We're excited to work with you as a valuable member of the Tegus by AlphaSense network, now among AlphaSense's offerings.</p><p>{{goal}} This is a paid consultation, and it won't require much of your time.</p><p>Do you have five minutes for a quick call so I can share the project details? Just let me know what number works best, or feel free to book a time on my calendar: <a href=\"https://www.youcanbookme/benjamin.scheidelman.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.youcanbookme/benjamin.scheidelman.com</a></p>{{outro}}<p>All the best,<br>Ben</p>"
+  },
+  "be_prior": {
+    "body": "<p>Hi Ben,</p><p>Thank you for being a part of the Tegus by AlphaSense expert network!</p><p>My name is Ben, {{goal}} To get started, I just need your answers to these research questions:</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Are you a customer of Twilio?</li><li>When did you last evaluate competitor solutions?</li><li>What is your role in the decision making process?</li></ul><p>I have you down for an hourly rate of $300 per hour. Does that rate still work for you?</p>{{outro}}<p>All the best,<br>Ben</p>"
+  }
+}
