@@ -295,7 +295,11 @@
                     researchGoalInput.addEventListener('input', updatePreview);
                     outroInput.addEventListener('input', updatePreview);
 
-                    // Perform the first render
+                    // Set default text for initial load
+                    subjectLineInput.value = "Tegus by AlphaSense Research Call";
+                    researchGoalInput.value = "I'm reaching out on behalf of a client who is looking to speak with experts with your experience and your perspective would be incredibly valuable.";
+
+                    // Perform the first render with default text
                     updatePreview();
                 })
                 .catch(error => {
