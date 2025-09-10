@@ -1,0 +1,7 @@
+Build a kind of bold tool - inputs <b> into the text so that analysts can copy and paste this into the chrome extension. 
+
+Build the JSON so it’s easily editable by Alicia - this way we can keep it up to date on copies
+
+Pull the Fresh VS BE VS etc. from the avail JSON’s so that Alicia can update with whatever copies she thinks makes sense
+
+Tool that queries a “test’ email to get sent to you in this format (my idea)
