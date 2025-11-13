@@ -1,7 +1,11 @@
 {
   "fresh": {
     "copy_name": "Fresh Outreach [CopyA]",
-    "body": "<p>I’m currently working with a client who is researching {goal}}. I came across your profile and thought you’d be a great fit for a 30-60 minute call with my client to discuss this topic.</p><p>The company I work for, Tegus by AlphaSense, is a leading expert network and research platform.</p> <p>We’re happy to compensate you at a rate that would make the call worth your time.</p> <p>Do you have some time to connect? Feel free to check my availability on <a href = \"https youcanbook.com/benscheidelman\">my calendar</a>, or I can send further information via email. </p>"
+    "body": "<p>I’m currently working with a client who is researching {{goal}}. I came across your profile and thought you’d be a great fit for a 30-60 minute call with my client to discuss this topic.</p><p>The company I work for, Tegus by AlphaSense, is a leading expert network and research platform.</p> <p>We’re happy to compensate you at a rate that would make the call worth your time.</p> <p>Do you have some time to connect? Feel free to check my availability on <a href = \"https youcanbook.com/benscheidelman\">my calendar</a>, or I can send further information via email. </p>"
+  },
+  "fresh_2": {
+    "copy_name": "Fresh Outreach [CopyB]",
+    "body": <p>I’m working on behalf of a client researching {{ event_raw.properties.properties.research_goal }}, and I thought you’d be a great fit.</p> <p>My company Tegus by AlphaSense, is a leading expert network and research platform.</p> <p>The end goal would be a 30-60 minute compensated call with my client at a rate of your choosing.</p> <p>Do you have 5 minutes to discuss the project? You can grab time on <a href="{{ event_raw.properties.properties.sender_calendar_link }}">my calendar</a>, or I can send the details over email.</p>"
   },
   "be_prior": {
     "copy_name": "Backend w/ Screening Questions",
