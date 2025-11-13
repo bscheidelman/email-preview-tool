@@ -1,4 +1,8 @@
 {
+  "fresh": {
+    "copy_name": "Fresh Outreach [CopyA]",
+    "body": "<p>Hi Ben,</p><p>I hope you are well! {{goal}} Based on your experience, I thought you'd be a great person to reach out to.</p><p>We're looking to schedule a one-hour paid consulting call with our client. Regarding compensation, do you have experience working with expert networks or conducting similar calls? If so, we’d be happy to match your standard hourly rate. Our typical market rate is $350-$450 USD for the hour. Would that be acceptable for you?</p><p>Do you have 5-10 minutes to discuss? Feel free to book a time on <a href=\"https://www.youcanbookme/benjamin.scheidelman.com\"> my calendar</a> to go over the project details.</p>{{outro}}<p>All the best,<br>Ben</p>"
+  },
   "be_prior": {
     "copy_name": "Backend w/ Screening Questions",
     "body": "<p>Hi Ben,</p><p>Thank you for being a part of the Tegus by AlphaSense expert network!</p><p>My name is Ben, {{goal}} To get started, I just need your answers to these research questions:</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Are you a customer of Twilio?</li><li>When did you last evaluate competitor solutions?</li><li>What is your role in the decision making process?</li></ul><p>I have you down for an hourly rate of $300 per hour. Does that rate still work for you?</p>{{outro}}<p>All the best,<br>Ben</p>"
