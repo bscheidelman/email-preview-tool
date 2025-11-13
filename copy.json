@@ -1,7 +1,7 @@
 {
   "fresh": {
     "copy_name": "Fresh Outreach [CopyA]",
-    "body": "<p>Hi Ben,</p><p>I hope you are well! {{goal}} Based on your experience, I thought you'd be a great person to reach out to.</p><p>We're looking to schedule a one-hour paid consulting call with our client. Regarding compensation, do you have experience working with expert networks or conducting similar calls? If so, we’d be happy to match your standard hourly rate. Our typical market rate is $350-$450 USD for the hour. Would that be acceptable for you?</p><p>Do you have 5-10 minutes to discuss? Feel free to book a time on <a href=\"https://www.youcanbookme/benjamin.scheidelman.com\"> my calendar</a> to go over the project details.</p>{{outro}}<p>All the best,<br>Ben</p>"
+    "body": "<p>I’m currently working with a client who is researching {goal}}. I came across your profile and thought you’d be a great fit for a 30-60 minute call with my client to discuss this topic.</p><p>The company I work for, Tegus by AlphaSense, is a leading expert network and research platform.</p> <p>We’re happy to compensate you at a rate that would make the call worth your time.</p> <p>Do you have some time to connect? Feel free to check my availability on <a href = \"https youcanbook.com/benscheidelman\">my calendar</a>, or I can send further information via email. </p>"
   },
   "be_prior": {
     "copy_name": "Backend w/ Screening Questions",
