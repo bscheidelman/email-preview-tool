@@ -1,14 +1,63 @@
 {
   "fresh": {
-    "copy_name": "Fresh Outreach [CopyA]",
-    "body": "<p>Hi Ben,</p><p>I hope you are well! {{goal}} Based on your experience, I thought you'd be a great person to reach out to.</p><p>We're looking to schedule a one-hour paid consulting call with our client. Regarding compensation, do you have experience working with expert networks or conducting similar calls? If so, we’d be happy to match your standard hourly rate. Our typical market rate is $350-$450 USD for the hour. Would that be acceptable for you?</p><p>Do you have 5-10 minutes to discuss? Feel free to book a time on <a href=\"https://www.youcanbookme/benjamin.scheidelman.com\"> my calendar</a> to go over the project details.</p>{{outro}}<p>All the best,<br>Ben</p>"
+    "copy_name": "Fresh First [Copy1]",
+    "body": "<p>I'm reaching out because my client is exploring {{goal}}, and I thought your experience was a strong fit.</p><p>The company I represent, Tegus by AlphaSense, is an expert network that facilitates paid consultations between industry professionals and clients.</p><p>We would, of course, be happy to compensate you for your time.</p><p>What's the best way to connect for 5 minutes? You can grab a time on <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a> or just reply if you'd like the text-based summary first.</p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
   },
-  "be_prior": {
-    "copy_name": "Backend w/ Screening Questions",
-    "body": "<p>Hi Ben,</p><p>Thank you for being a part of the Tegus by AlphaSense expert network!</p><p>My name is Ben, {{goal}} To get started, I just need your answers to these research questions:</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Are you a customer of Twilio?</li><li>When did you last evaluate competitor solutions?</li><li>What is your role in the decision making process?</li></ul><p>I have you down for an hourly rate of $300 per hour. Does that rate still work for you?</p>{{outro}}<p>All the best,<br>Ben</p>"
+"fresh_2": {
+    "copy_name": "Fresh First [Copy2]",
+    "body": "<p>I’m working on behalf of a client researching {{goal}}, and I thought you’d be a great fit.</p><p>My company Tegus by AlphaSense, is a leading expert network and research platform.</p><p>The end goal would be a 30-60 minute compensated call with my client at a rate of your choosing.</p><p>Do you have 5 minutes to discuss the project? You can grab time on <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a>, or I can send the details over email.</p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
   },
-  "be_no_prior": {
-    "copy_name": "Backend w/ out Screening Questions",
-    "body": "<p>Hi Ben,</p><p>Thank you for being a part of the Tegus by AlphaSense expert network!</p><p>My name is Ben, {{goal}}</p><p> I have you down for an hourly rate of $550 per hour. Does that work for you? If so, please book a time on my calendar to discuss the project details: <a href = \"https youcanbook.com/benscheidelman\"> https youcanbook.com/benscheidelman</a> </p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
-  }
+"fresh_3": {
+    "copy_name": "Fresh First [Copy3]",
+    "body": "<p>I’m currently working with a client who is researching {{goal}}. I came across your profile and thought you’d be a great fit for a 30-60 minute call with my client to discuss this topic.</p><p>The company I work for, Tegus by AlphaSense, is a leading expert network and research platform.</p><p>We’re happy to compensate you at a rate that would make the call worth your time.</p><p>Do you have some time to connect? Feel free to check my availability on <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a>, or I can send further information via email. </p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
+  },
+"fresh_4": {
+    "copy_name": "Fresh Second [Copy1]",
+    "body": "<p>Just checking in one last time about the project on {{goal}}.</p><p>This would be a 30-60 minute paid consultation with our client if selected.</p><p>On average, we pay experts between $200-$500 for their time, though happy to pass along a rate that works best for you.</p><p>To clarify, our client is not seeking confidential information, only your high-level experiences and opinions.</p><p>You can book a time that works for you via <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a>, or I can send the details over email. </p><p>If this isn't a good fit, no problem at all. Just let me know, and I won't follow up on this project again.</p><p>All the best,<br>Ben</p>"  
+},
+"fresh_5": {
+    "copy_name": "Fresh Second [Copy2]",
+    "body": "<p>I wanted to follow up on my previous email about the project on {{goal}}.</p><p>The end goal is a 30-60 minute compensated call between you and our client to discuss your personal experiences, nothing non-public or confidential.</p><p>If selected, this would be a paid consultation at an hourly rate of your choosing.</p><p>To clarify, our client is not seeking confidential information, only your high-level experiences and opinions.</p><p>Let me know if you have time to chat or if you’d prefer additional information over email. My calendar is <a href=\"https://youcanbook.com/benscheidelman\">here</a> if that's easier.</p><p>If you're not interested, a quick 'no' is always appreciated! If I don't hear back, I'll assume it's not a fit and close the loop on my end.</p><p>All the best,<br>Ben</p>"
+ },
+"fresh_6": {
+    "copy_name": "Fresh Second [Copy3]",
+    "body": "<p>I’m reaching back out to see if you’d be interested in this project related to {{goal}}. If selected, this would be a 30-60 minute compensated call.</p><p>On average, we pay experts between $200-$500 for their time, though happy to pass along a rate that works best for you. </p><p>You can book a time that works for you to discuss the project via <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a> or, I can send the information over email.</p><p>My clients are not looking for any non-public or confidential information, just for you to share your experience and expertise.</p><p>Let me know either way.</p><p>All the best,<br>Ben</p>"
+  },
+
+"backend_pro_first_copy_1": {
+    "copy_name": "Backend Pro First [Copy1]",
+    "body": "<p>Thanks for being part of our expert community at Tegus by AlphaSense.</p><p>I was hoping you could help me or point me in the right direction. We have a client interested in {{goal}}, and I thought you’d be a great fit for this project.</p><p>Below are the client’s qualifying questions. Please respond with 1-3 sentences for each so I can recommend your profile to the client.</p><p>Is your rate still $400 per hour?</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>{{outro}}</p><p>All the best,<br>Ben</p>"
+    },
+"backend_pro_first_copy_2": {
+    "copy_name": "Backend Pro First [Copy2]",
+    "body": "<p>Thank you for being a part of the Tegus by AlphaSense expert network!</p><p>We have a client interested in {{goal}}, and I thought you’d be a great fit for this project. I wanted to check if you’re interested in being considered and to confirm your experience with this project’s details.</p><p>Below are the client’s qualifying questions. Please respond with 1-3 sentences so I can recommend your profile to the client.</p><p>Is your rate still $400 per hour?</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>{{outro}}</p><p>All the best,<br>Ben</p>"
+    },
+"backend_pro_first_copy_3": {
+    "copy_name": "Backend Pro First [Copy3]",
+    "body": "<p>Thanks for your partnership as a Tegus by AlphaSense expert!</p><p>I'm currently sourcing experts for a new project on {{goal}}. Given your background, I thought you could provide some valuable insights.</p><p>Please reply to this email with your answers to the client’s screening questions below.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul>Finally, please confirm that your hourly rate is still $400 per hour.<p>{{outro}}</p><p>All the best,<br>Ben</p>"
+    },
+"backend_first_copy_1": {
+    "copy_name": "Backend First [Copy1]",
+    "body": "<p>Thanks for being part of our expert community at Tegus by AlphaSense.</p><p>I'm writing to see if you're still interested in consulting on projects like {{goal}}. We have a new client inquiry that seems to match your background.<p>Let me know if you're open to being considered. We can either have a quick call (my calendar is <a href=\"https://youcanbook.com/benscheidelman\">here</a>) or I can send the full project scope via email, whichever you prefer.</p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
+    },
+"backend_first_copy_2": {
+    "copy_name": "Backend First [Copy2]",
+    "body": "<p>Thanks for being part of the Tegus by AlphaSense network!</p><p>I was hoping you may be able to help or point me in the right direction with my project.  My client is interested in {{goal}} and I thought you’d be a good fit. <p>If you're interested or have questions, just let me know!</p><p>You can also grab a time directly on my  <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a>}, or if more convenient, I can send the details over email. </p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
+    },
+"backend_first_copy_3": {
+    "copy_name": "Backend First [Copy3]",
+    "body": "<p>Thanks for being part of the Tegus by AlphaSense network!</p><p>I'm currently scoping a new project on {{goal}} and wanted to see if this aligns with your experience. </p><p>If you're interested or have questions, just let me know! You can also grab a time directly on <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a>, or if more convenient, I can send the details over email.</p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
+    },
+"backend_second_copy_1": {
+    "copy_name": "Backend Second [Copy1]",
+    "body": "<p>Thanks for being part of our expert community at Tegus by AlphaSense.</p><p>I still think you’d be a great fit for a 30-60 minute compensated call with my client regarding {{goal}}.</p><p>Are you interested? If so, please reply with your answers to the following questions.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>If I don’t hear back from you, I’ll close out your opportunity to participate in this call. </p><p>All the best,<br>Ben</p>"
+    },
+"backend_second_copy_2": {
+    "copy_name": "Backend Second [Copy2]",
+    "body": "<p>Thanks for being part of our expert community at Tegus by AlphaSense.</p><p>I wanted to follow up one last time to see if you're interested in a consultation at your rate of $400 per hour regarding {{goal}}.</p><p>If interested, please answer the following questions so I can send your profile over to my client.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>Thank you, and please let me know either way. </p><p>All the best,<br>Ben</p>"
+    },
+"backend_second_copy_3": {
+    "copy_name": "Backend Second [Copy3]",
+    "body": "<p>Thanks for being part of our expert community at Tegus by AlphaSense.</p><p>Are you still interested in participating in Tegus projects? I think you’d be a great fit for my project regarding {{goal}} at a rate of $400 per hour, but let me know either way. </p><p>Below are the client’s qualifying questions. Please respond with 1-3 sentences for each so I can recommend your profile to the client.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>Please let me know if you have any questions or would prefer to discuss over the phone!</p><p>All the best,<br>Ben</p>"
+    }
 }
