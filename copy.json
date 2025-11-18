@@ -43,7 +43,7 @@
     },
 "backend_first_copy_2": {
     "copy_name": "Backend First [Copy2]",
-    "body": "<p>Thanks for being part of the Tegus by AlphaSense network!</p><p>I was hoping you may be able to help or point me in the right direction with my project.  My client is interested in {{goal}} and I thought you’d be a good fit. <p>If you're interested or have questions, just let me know!</p><p>You can also grab a time directly on my  <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a>}, or if more convenient, I can send the details over email. </p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
+    "body": "<p>Thanks for being part of the Tegus by AlphaSense network!</p><p>I was hoping you may be able to help or point me in the right direction with my project.  My client is interested in {{goal}} and I thought you’d be a good fit. <p>If you're interested or have questions, just let me know!</p><p>You can also grab a time directly on my  <a href=\"https://youcanbook.com/benscheidelman\">my calendar</a>, or if more convenient, I can send the details over email. </p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
     },
 "backend_first_copy_3": {
     "copy_name": "Backend First [Copy3]",
