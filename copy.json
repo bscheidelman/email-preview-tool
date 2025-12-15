@@ -39,7 +39,7 @@
 
 "backend_first_copy_1": {
     "copy_name": "Backend First [Copy1]",
-    "body": "<p>Thanks for being part of our expert community at Tegus by AlphaSense.</p><p>I'm writing to see if you're still interested in consulting on projects. We have a new project focused on {{goal}} that seems to match your background.</p><p>Let me know if you're open to being considered. We can either have a quick call (my calendar is <a href=\"https://youcanbook.com/benscheidelman\">here</a>) or I can send the full project scope via email, whichever you prefer.</p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
+    "body": "<p>Thanks for being part of our expert community at Tegus by AlphaSense.</p><p>I'm writing to see if you're still interested in consulting on projects. We have a new project focused on {{goal}}, that seems to match your background.</p><p>Let me know if you're open to being considered. We can either have a quick call (my calendar is <a href=\"https://youcanbook.com/benscheidelman\">here</a>) or I can send the full project scope via email, whichever you prefer.</p><p>{{outro}}</p><p>All the best,<br>Ben</p>"
     },
 "backend_first_copy_2": {
     "copy_name": "Backend First [Copy2]",
