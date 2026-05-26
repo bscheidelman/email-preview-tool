@@ -1,27 +1,27 @@
 {
   "fresh": {
     "copy_name": "Fresh First",
-    "body": "<p>A client of mine is researching {{goal}}.</p><p>Your background looks like a strong fit. It's a 30-60 min paid call with Tegus by AlphaSense, rate set by you. Open to learning more?</p><p>All the best,<br>Ben</p>"
+    "body": "<p>Hi Ben,</p><p>A client of mine is researching {{goal}}.</p><p>Your background looks like a strong fit. It's a 30-60 min paid call with Tegus by AlphaSense, rate set by you. Open to learning more?</p><p>All the best,<br>Ben</p>"
   },
 "fresh_2": {
     "copy_name": "Fresh Second",
-    "body": "<p>Quick follow-up - a client of mine is researching {{goal}}. It'd be a 30-60 min paid call, just your high-level experience, nothing confidential.</p><p>The project is moving fast on the client's side, so happy to share details now if useful. No worries if it's not a fit. Just let me know and I won't follow up again.</p><p>All the best,<br>Ben</p>"
+    "body": "<p>Hi Ben,</p><p>Quick follow-up - a client of mine is researching {{goal}}. It'd be a 30-60 min paid call, just your high-level experience, nothing confidential.</p><p>The project is moving fast on the client's side, so happy to share details now if useful. No worries if it's not a fit. Just let me know and I won't follow up again.</p><p>All the best,<br>Ben</p>"
   },
 "backend_pro_first_copy_1": {
     "copy_name": "Backend Pro First",
-    "body": "<p>Hope you're well. I'm working on a project for a client researching {{goal}}. Your background looked strong — would you be open to a quick consult at your rate of $400/hr?</p><p>If so, answer the questions below in a sentence or two each and I'll  take it from there.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>All the best,<br>Ben</p>"
+    "body": "<p>Hi Ben,</p><p>Hope you're well. I'm working on a project for a client researching {{goal}}. Your background looked strong — would you be open to a quick consult at your rate of $400/hr?</p><p>If so, answer the questions below in a sentence or two each and I'll  take it from there.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>All the best,<br>Ben</p>"
     },
 "backend_pro_first_copy_3": {
     "copy_name": "Backend Pro Second",
-    "body": "<p><p>The project is moving fast on the client's side, so wanted to make sure this didn't get buried. If the timing's not right, no worries at all.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>All the best,<br>Ben</p>"
+    "body": "<p>Hi Ben,</p><p><p>The project is moving fast on the client's side, so wanted to make sure this didn't get buried. If the timing's not right, no worries at all.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>All the best,<br>Ben</p>"
     },
 
 "backend_first_copy_1": {
     "copy_name": "Backend NonPro First",
-    "body": "<p>A client is looking for a 45–60 min call at your rate of $400/hr on {{goal}}.</p><p>Your background looks like a strong fit. Are you open to being considered? Just reply 'yes' and I'll send over the details.</p><p>All the best,<br>Ben</p>"
+    "body": "<p>Hi Ben,</p><p>A client is looking for a 45–60 min call at your rate of $400/hr on {{goal}}.</p><p>Your background looks like a strong fit. Are you open to being considered? Just reply 'yes' and I'll send over the details.</p><p>All the best,<br>Ben</p>"
     },
 "backend_first_copy_2": {
     "copy_name": "Backend NonPro Second",
-    "body": "<p>Wanted to share the specific questions the client is hoping to cover, in case it helps you gauge fit:</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>If these line up with your experience, answer in a sentence or two each and I'll send your profile to the client.</p><p>All the best,<br>Ben</p>"
+    "body": "<p>Hi Ben,</p><p>Wanted to share the specific questions the client is hoping to cover, in case it helps you gauge fit:</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Can you speak to the value proposition of your competitors, specifically Omnicom?</li><li>Can you speak to what is uniquely different about ​your company​ over Omnicom?</li><li>What are some industry trends that you can speak to?</li></ul><p>If these line up with your experience, answer in a sentence or two each and I'll send your profile to the client.</p><p>All the best,<br>Ben</p>"
     }
 }
